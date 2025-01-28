@@ -1,6 +1,8 @@
 # Docs Dark
 
-How to import:
+An extention to give docs a working dark mode
+
+# How to import:
 
 Download zip file of extension
 
