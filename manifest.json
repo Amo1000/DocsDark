@@ -1,0 +1,11 @@
+{
+  "manifest_version" : 3,
+  "version" : "1",
+  "name": "Google Docs Dark",
+  "content_scripts": [
+    {
+      "matches": ["https://docs.google.com/*"],
+      "css": ["main.css"]
+    }
+  ]
+}
