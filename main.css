@@ -1,5 +1,13 @@
-.kix-appview-editor, #docs-bars, #docs-titlebar, #docs-branding-container, .docs-titlebar-buttons{
+.kix-appview-editor, #docs-bars, #docs-titlebar, .docs-titlebar-buttons, #docs-banner-container, #docs-header-container{
   background: #f0f0f0 !important;
+}
+
+#docs-branding-container{
+  background: #00000000 !important;
+}
+
+#docs-bars{
+  margin-top:6px;
 }
 
 .navigation-widget-floating-navigation-button.navigation-widget, .kix-outlines-widget-header-contents{
@@ -7,7 +15,7 @@
 }
 
 .companion-app-switcher-container {
-	background: #f0f0f0 !important;
+  background: #f0f0f0 !important;
 }
 
 body {
