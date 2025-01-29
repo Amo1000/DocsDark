@@ -1,9 +1,17 @@
-body {
-  filter: invert(1) hue-rotate(180deg) !important;
+.kix-appview-editor, #docs-bars, #docs-titlebar, #docs-branding-container, .docs-titlebar-buttons{
+  background: #f0f0f0 !important;
 }
 
-#docs-primary-toolbars{
-  filter: contrast(0.95) !important;
+.navigation-widget-floating-navigation-button.navigation-widget, .kix-outlines-widget-header-contents{
+  background: #f0f0f0 !important;
+}
+
+.companion-app-switcher-container {
+	background: #f0f0f0 !important;
+}
+
+body {
+  filter: invert(1) hue-rotate(180deg) !important;
 }
 
 .docs-material-gm-dialog, .docs-branding-icon-documents-36, .kix-cursor-caret, .docs-homescreen-grid-item-thumbnail, img, .kix-canvas-tile-content, .docs-gm .goog-menu{
